@@ -18,10 +18,10 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on NFTs projects.
+- 🔭 I’m currently working on blockchain projects and proptech startup
 - 🌱 I’m currently learning React with Typescript
 - 👯 I’m looking to collaborate on blockchain projects
-- 💬 Talk to me about freelancing opportunities in blockchain engineering
+- 💬 Talk to me about freelancing opportunities in engineering
 - ⚡ Fun fact: I like ![VS
 Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=000000)
 
