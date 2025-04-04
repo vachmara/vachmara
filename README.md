@@ -181,6 +181,6 @@ Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visua
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vachmara&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="vachmara" /></p>
 <p>
-  <a href="[https://nuxters.nuxt.com/atinux](https://nuxters.nuxt.com/vachmara)"><img src="https://nuxters.nuxt.com/__og-image__/image/vachmara/og.png" alt="Vachmara on Nuxters" width="500" /></a>
+  <a href="https://nuxters.nuxt.com/vachmara"><img src="https://nuxters.nuxt.com/__og-image__/image/vachmara/og.png" alt="Vachmara on Nuxters" width="500" /></a>
 </p>
 <p></p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vachmara"/></p>
