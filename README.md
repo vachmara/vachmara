@@ -14,8 +14,8 @@ I'm a software engineer passionate about technology and innovation. I specialize
 
 ## 📝 Latest Blog Posts
 - [Comparing modern JavaScript bundlers for Nuxt 3: Rspack, Vite, and Webpack](https://valentinchmara.com/blog/nuxt3-bundlers)
-- [How SupaCodeur got its first users — From internal tool to niche SaaS](https://valentinchmara.com/blog/supacodeur-first-users)
-- [From Root-Me to SaaS builder - My journey into code, security and autonomy](https://valentinchmara.com/blog/rootme-to-saas)
+- [How SupaCodeur got its first users - From internal tool to niche SaaS](https://valentinchmara.com/blog/supacodeur-first-users)
+- [From Root-Me to SaaS builder - My journey into code, security and autonomy](https://valentinchmara.com/blog/from-root-me-to-saas-builder-my-journey-into-code-security-and-autonomy)
 
 ## 🌟 Testimonials
 > "Extremely serious work, within deadlines. Valentin is attentive, proactive, and always maintains a positive attitude."  
