@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Valentin Chmara
 
 ## 💼 About Me
+
 I'm a software engineer passionate about technology and innovation. I specialize in building applications and creating seamless user experiences. My goal is to leverage technology to solve real-world problems and make a positive impact.
 
 - 🔭 Founder at [SupaDev](https://supadev.fr)
@@ -25,6 +26,7 @@ I'm a software engineer passionate about technology and innovation. I specialize
 > — Lana Denina, Founder of The Mona Lana
 
 ## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=vachmara&label=Profile%20views&color=0e75b6&style=flat)<br>
 ![Valentin's GitHub Stats](https://stats.valentinchmara.com/api?username=vachmara&show_icons=true&theme=github_dark&hide=contribs)
 [![vachmara Nuxter profile](https://nuxters.nuxt.com/card/vachmara/og.png)](https://nuxters.nuxt.com/vachmara)
 
