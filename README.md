@@ -32,7 +32,7 @@ I'm a software engineer passionate about technology and innovation. I specialize
 [![vachmara Nuxter profile](https://nuxters.nuxt.com/card/vachmara/og.png)](https://nuxters.nuxt.com/vachmara)
 
 ## 📫 Contact me
-- 📧 Email: [valentin@example.com](mailto:valentin@supadev.fr)
+- 📧 Email: [valentin@supadev.fr](mailto:valentin@supadev.fr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/valentinchmara)
 - 🐦 [Twitter](https://twitter.com/ValentinChmara)
 
