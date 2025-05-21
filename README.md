@@ -14,6 +14,7 @@ I'm a software engineer passionate about technology and innovation. I specialize
 - [Vendeo](https://supadev.fr/vendeo): An e-commerce solution for small businesses.
 
 ## 📝 Latest Blog Posts
+- [How you can earn money thanks to Open Source](https://valentinchmara.com/blog/how-you-can-earn-money-thanks-to-open-source)
 - [Comparing modern JavaScript bundlers for Nuxt 3: Rspack, Vite, and Webpack](https://valentinchmara.com/blog/nuxt3-bundlers)
 - [How SupaCodeur got its first users - From internal tool to niche SaaS](https://valentinchmara.com/blog/supacodeur-first-users)
 - [From Root-Me to SaaS builder - My journey into code, security and autonomy](https://valentinchmara.com/blog/from-root-me-to-saas-builder-my-journey-into-code-security-and-autonomy)
