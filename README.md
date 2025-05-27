@@ -11,7 +11,7 @@ I'm a software engineer passionate about technology and innovation. I specialize
 ## 🚀 Projects
 - [SupaCodeur](https://supadev.fr/supacodeur): A platform that automate freelancer prospection.
 - [Rembr](https://supadev.fr/rembr): A tool for managing digital memories.
-- [Vendeo](https://supadev.fr/vendeo): An e-commerce solution for small businesses.
+- [Vendeo](https://supadev.fr/vendeo): An interactive video pop-ups SaaS.
 
 ## 📝 Latest Blog Posts
 - [How you can earn money thanks to Open Source](https://valentinchmara.com/blog/how-you-can-earn-money-thanks-to-open-source)
