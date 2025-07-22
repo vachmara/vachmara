@@ -4,9 +4,9 @@
 
 I'm a software engineer passionate about technology and innovation. I specialize in building applications and creating seamless user experiences. My goal is to leverage technology to solve real-world problems and make a positive impact.
 
-- 🔭 Founder at [SupaDev](https://supadev.fr)
-- 🧠 Former CTO at [Clairly](https://clairly.co)
-- 💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/valentinchmara)
+- 🔭 Co-founder @ [SWAI Agency](https://www.agence-swai.com/) | formerly [SupaDev](https://supadev.fr)
+- 🧠 Former CTO @ [Clairly](https://clairly.co)
+- 💬 Let's connect on [X](https://x.com/vachmara)
 
 ## 🚀 Projects
 - [SupaCodeur](https://supadev.fr/projects/supacodeur): A platform that automate freelancer prospection.
@@ -32,7 +32,7 @@ I'm a software engineer passionate about technology and innovation. I specialize
 [![vachmara Nuxter profile](https://nuxters.nuxt.com/card/vachmara/og.png)](https://nuxters.nuxt.com/vachmara)
 
 ## 📫 Contact me
-- 📧 Email: [valentin@supadev.fr](mailto:valentin@supadev.fr)
+- 📧 Email: [valentin@agence-swai.com](mailto:valentin@agence-swai.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/valentinchmara)
 - 🐦 [Twitter](https://twitter.com/ValentinChmara)
 
