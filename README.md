@@ -4,7 +4,7 @@
 
 I'm a software engineer passionate about technology and innovation. I specialize in building applications and creating seamless user experiences. My goal is to leverage technology to solve real-world problems and make a positive impact.
 
-- 🔭 Co-founder @ [SWAI Agency](https://www.agence-swai.com/) | formerly [SupaDev](https://supadev.fr)
+- 🔭 Co-founder @ [SWAI Agency](https://www.agence-swai.com/?utm_source=github) | formerly [SupaDev](https://supadev.fr)
 - 🧠 Former CTO @ [Clairly](https://clairly.co)
 - 💬 Let's connect on [X](https://x.com/vachmara)
 
