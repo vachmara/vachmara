@@ -34,6 +34,6 @@ I'm a software engineer passionate about technology and innovation. I specialize
 ## 📫 Contact me
 - 📧 Email: [valentin@agence-swai.com](mailto:valentin@agence-swai.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/valentinchmara)
-- 🐦 [Twitter](https://twitter.com/ValentinChmara)
+- 🐦 [X](https://x.com/vachmara)
 
 
